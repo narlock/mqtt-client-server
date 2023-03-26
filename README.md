@@ -1,4 +1,6 @@
 # Message Queuing Telemetry Transport
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 - **Author**: *Anthony Narlock*
 - **High-level description**: Publish-subscribe based messaging protocol utilizing TCP client-server sockets in Python. This program has been tested on Windows 11, Linux Ubuntu, and macOS Monterary. This project was created for the CSCI 4211 - Introduction to Computer Networks class in Fall 2022. Given was only a description of the application features and the requirement of a multi-threaded server that can support many clients. All of the code and documentation for this project was created by me (Anthony Narlock).
 
